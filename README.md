@@ -32,9 +32,6 @@ This Program has several features and is very simple:
 > 
 > **[Support me](https://www.patreon.com/cathienna)** (i create a lot of free stuff and patreon is a good way to motivate me to make even more!)
 
-# Sponsors & Partnerships
-> **Want to be here? Contact me on Twitter or Discord
-
 # FAQ
 I have issues and i need help
 > If you need help instantly then join my discord and post your issues in the Issues section, i'll help ASAP.

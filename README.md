@@ -20,6 +20,7 @@ This Program has several features and is very simple:
 2. Move up/down on the list after selecting the item.
 3. Marking the To-Do Item as Done or incomplete.
 4. Quicksave, Manual Save/Load of files.
+5. resizing of the entire window.
 
 # How to support me and stay updated to the bot
 > **[Discord](https://discord.gg/u6SpUpfMzy)** (For future updates and support of the bot)
